@@ -3,7 +3,7 @@ name = "SigmaOS-nss"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "nss component"
+description = "SigmaOS SigmaOS-nss component"
 upstream = []
 
 [contract]
